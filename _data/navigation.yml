@@ -17,8 +17,8 @@ main:
   - title: "我的作品"
     url: /works/    
     
-  - title: "摄影"
-    url: /photography/
+  - title: "爱好"
+    url: /hobbies/
         
   - title: "随笔"
     url: /notes/
