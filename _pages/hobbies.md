@@ -17,3 +17,7 @@ author_profile: true
 ### 旅行
 
 我喜欢在旅行中探索不同的城市与风景，感受不同地方的文化与生活方式。旅行也让我有机会观察世界、积累新的体验。
+
+![旅行照片](/images/travel1.JPG)
+
+![旅行照片](/images/trave2.JPG)
