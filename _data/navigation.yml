@@ -23,9 +23,6 @@ main:
   - title: "随笔"
     url: /notes/
     
-  - title: "个人简历"
-    url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
